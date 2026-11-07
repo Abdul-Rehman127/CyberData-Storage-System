@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Runtime user data — never commit real credentials or vault contents
+secret.key
+users.txt
+user_names.txt
+passwords.txt
+users/
